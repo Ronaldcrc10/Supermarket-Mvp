@@ -54,3 +54,4 @@ C:\Users\ronal\source\repos\Supermarket-mvp\bin\Debug\net8.0-windows\runtimes\wi
 C:\Users\ronal\source\repos\Supermarket-mvp\obj\Debug\net8.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
 C:\Users\ronal\source\repos\Supermarket-mvp\obj\Debug\net8.0-windows\Supermar.FBD2E1F5.Up2Date
 C:\Users\ronal\source\repos\Supermarket-mvp\obj\Debug\net8.0-windows\Supermarket_mvp.Views.MainView.resources
+C:\Users\ronal\source\repos\Supermarket-mvp\obj\Debug\net8.0-windows\Supermarket_mvp.Views.ProductViewDesing.resources

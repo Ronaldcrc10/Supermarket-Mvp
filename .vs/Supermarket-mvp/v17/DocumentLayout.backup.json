@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\views\\ipaymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|c:\\users\\ronal\\source\\repos\\supermarket-mvp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4427D36-59D2-40A0-823D-7EA5C1F4260A}|Supermarket-mvp.csproj|C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PayModeView.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Views\\PayModeView.cs",
@@ -88,14 +88,14 @@
               "RelativeDocumentMoniker": "Models\\IPayModeRepository.cs",
               "ToolTip": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\Models\\IPayModeRepository.cs",
               "RelativeToolTip": "Models\\IPayModeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T18:12:59.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PayModePresenter.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\Presenters\\PayModePresenter.cs",
               "RelativeDocumentMoniker": "Presenters\\PayModePresenter.cs",
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IPayModeView.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\Views\\IPayModeView.cs",
               "RelativeDocumentMoniker": "Views\\IPayModeView.cs",
@@ -127,22 +127,35 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T01:42:07.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PayModeRepository.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\_Repositories\\PayModeRepository.cs",
               "RelativeDocumentMoniker": "_Repositories\\PayModeRepository.cs",
               "ToolTip": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\_Repositories\\PayModeRepository.cs",
               "RelativeToolTip": "_Repositories\\PayModeRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T03:34:07.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T05:00:44.714Z",
               "EditorCaption": ""
             },
             {
@@ -158,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainView.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\Views\\MainView.Designer.cs",
               "RelativeDocumentMoniker": "Views\\MainView.Designer.cs",
@@ -172,18 +185,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-14T05:00:44.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "IMainView.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Supermarket-mvp\\Views\\IMainView.cs",
               "RelativeDocumentMoniker": "Views\\IMainView.cs",
