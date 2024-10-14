@@ -7,6 +7,12 @@ using Supermarket_mvp.Models;
 using Supermarket_mvp.Views;
 using Supermarket_mvp._Repositories;
 using Supermarket_mvp.Presenters;
+using Supermarket_mvp.Properties;
+using Supermarket_mvp.Views;
+using Supermarket_mvp._Repositories;
+using Supermarket_mvp.Models;
+using System.Configuration;
+
 
 namespace Supermarket_mvp
 {

@@ -11,6 +11,7 @@ using System.Data;
 namespace Supermarket_mvp._Repositories
 {
     internal class PayModeRepository : BaseRepository, IPayModeRepository
+
     {
         public PayModeRepository(string connectionString) 
         {
@@ -32,7 +33,7 @@ namespace Supermarket_mvp._Repositories
             }
         }
 
-        void Delete(int id)
+        public void Delete(int id)
         {
             using (var connection = new SqlConnection(connectionString))
             using (var command = new SqlCommand())
